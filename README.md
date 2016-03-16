@@ -1,4 +1,4 @@
-In this Repository should you found at the Furture my Artwork for Pisi Linux.
+In this Repository  you found  Artwork for Pisi Linux and Pisi Linux 2.0.
 
 You can download it all times, and you can share it.
 
